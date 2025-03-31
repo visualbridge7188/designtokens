@@ -481,19 +481,19 @@
         "value": "Bold",
         "type": "fontWeights"
       },
-      "inter-1": {
+      "pretendard-1": {
         "value": "Bold",
         "type": "fontWeights"
       },
-      "inter-2": {
+      "pretendard-2": {
         "value": "Semi Bold",
         "type": "fontWeights"
       },
-      "inter-3": {
+      "pretendard-3": {
         "value": "Regular",
         "type": "fontWeights"
       },
-      "inter-4": {
+      "pretendard-4": {
         "value": "Medium",
         "type": "fontWeights"
       }
@@ -568,8 +568,8 @@
     },
     "Heading 2": {
       "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
+        "fontFamily": "{fontFamilies.pretendard}",
+        "fontWeight": "{fontWeights.pretendard-1}",
         "lineHeight": "{lineHeights.1}",
         "fontSize": "{fontSize.8}",
         "letterSpacing": "{letterSpacing.0}",
@@ -582,8 +582,8 @@
     },
     "Heading 3": {
       "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
+        "fontFamily": "{fontFamilies.pretendard}",
+        "fontWeight": "{fontWeights.pretendard-1}",
         "lineHeight": "{lineHeights.2}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.0}",
@@ -596,8 +596,8 @@
     },
     "Heading 4": {
       "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
+        "fontFamily": "{fontFamilies.pretendard}",
+        "fontWeight": "{fontWeights.pretendard-1}",
         "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.6}",
         "letterSpacing": "{letterSpacing.0}",
@@ -610,8 +610,8 @@
     },
     "Heading 5": {
       "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
+        "fontFamily": "{fontFamilies.pretendard}",
+        "fontWeight": "{fontWeights.pretendard-2}",
         "lineHeight": "{lineHeights.4}",
         "fontSize": "{fontSize.5}",
         "letterSpacing": "{letterSpacing.0}",
@@ -624,8 +624,8 @@
     },
     "Heading 6": {
       "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
+        "fontFamily": "{fontFamilies.pretendard}",
+        "fontWeight": "{fontWeights.pretendard-2}",
         "lineHeight": "{lineHeights.5}",
         "fontSize": "{fontSize.4}",
         "letterSpacing": "{letterSpacing.0}",
@@ -639,8 +639,8 @@
     "Body Large": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-3}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-3}",
           "lineHeight": "{lineHeights.6}",
           "fontSize": "{fontSize.3}",
           "letterSpacing": "{letterSpacing.0}",
@@ -653,8 +653,8 @@
       },
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-4}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-4}",
           "lineHeight": "{lineHeights.6}",
           "fontSize": "{fontSize.3}",
           "letterSpacing": "{letterSpacing.0}",
@@ -667,8 +667,8 @@
       },
       "SemiBold": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-2}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-2}",
           "lineHeight": "{lineHeights.6}",
           "fontSize": "{fontSize.3}",
           "letterSpacing": "{letterSpacing.0}",
@@ -681,8 +681,8 @@
       },
       "Bold": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-1}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-1}",
           "lineHeight": "{lineHeights.6}",
           "fontSize": "{fontSize.3}",
           "letterSpacing": "{letterSpacing.0}",
@@ -697,8 +697,8 @@
     "Body Medium": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-3}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-3}",
           "lineHeight": "{lineHeights.7}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.0}",
@@ -711,8 +711,8 @@
       },
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-4}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-4}",
           "lineHeight": "{lineHeights.7}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.0}",
@@ -725,8 +725,8 @@
       },
       "SemiBold": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-2}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-2}",
           "lineHeight": "{lineHeights.7}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.0}",
@@ -739,8 +739,8 @@
       },
       "Bold": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-1}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-1}",
           "lineHeight": "{lineHeights.7}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.0}",
@@ -755,8 +755,8 @@
     "Body Small": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-3}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-3}",
           "lineHeight": "{lineHeights.8}",
           "fontSize": "{fontSize.1}",
           "letterSpacing": "{letterSpacing.0}",
@@ -769,8 +769,8 @@
       },
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-4}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-4}",
           "lineHeight": "{lineHeights.8}",
           "fontSize": "{fontSize.1}",
           "letterSpacing": "{letterSpacing.0}",
@@ -785,8 +785,8 @@
     "Body Extra Small Text": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-3}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-3}",
           "lineHeight": "{lineHeights.9}",
           "fontSize": "{fontSize.0}",
           "letterSpacing": "{letterSpacing.0}",
@@ -799,8 +799,8 @@
       },
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.inter-4}",
+          "fontFamily": "{fontFamilies.pretendard}",
+          "fontWeight": "{fontWeights.pretendard-4}",
           "lineHeight": "{lineHeights.9}",
           "fontSize": "{fontSize.0}",
           "letterSpacing": "{letterSpacing.0}",
